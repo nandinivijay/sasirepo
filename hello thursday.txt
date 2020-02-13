@@ -1,1 +1,5 @@
 Editing the file in the remote repositoty
+
+Local repo --> remote repo --> Push the code
+Remote repo ---> local repo --> pull the code
+
